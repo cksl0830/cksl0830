@@ -16,10 +16,10 @@
 
 **_✅ Silicon-Valley-Online-Internship_**   
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cksl0830&tag=Elk&color=dark)](https://velog.io/@cksl0830/series/Silicon-Valley-Online-Internship)    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cksl0830&tag=Elk)](https://velog.io/@cksl0830/series/Silicon-Valley-Online-Internship)    
 
 **_✅ Etri-Internship_**   
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cksl0830&slug=Etri-프로젝트-결과&color=dark)](https://velog.io/@cksl0830/series/Etri-Internship)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cksl0830&slug=Etri-프로젝트-결과)](https://velog.io/@cksl0830/series/Etri-Internship)
 
 [![chaannnnii GitHub stats](https://github-readme-stats.vercel.app/api?username=cksl0830&show_icons=true&theme=radical)](https://github.com/cksl0830/github-readme-stats)
